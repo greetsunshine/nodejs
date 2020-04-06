@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'smmnodejs'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_724efa4e7fde4aaf94d47f9064b769e2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5d51550794984f4eb51b7222870979b5 }}
         package: .
