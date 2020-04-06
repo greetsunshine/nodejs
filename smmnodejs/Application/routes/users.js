@@ -4,7 +4,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get("/", function(req, res) {
-  res.send("Sunil connected Git with Azure");
+  res.send("Sunil connected Git with Azure, Trying again");
 });
 
 module.exports = router;
